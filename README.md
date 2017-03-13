@@ -1,6 +1,6 @@
 # Learn how to use Navigation Drawer in Android 
 
- ![Image](/pic1.png)
+ ![Image](/image.jpg)
 
 We will show you the correct way of creating navigation drawer in android .
 
